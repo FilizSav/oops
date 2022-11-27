@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="250fcffd-3a28-458d-a54a-b039a9f8f29a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_princples_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Apple_Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/FruitTest_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/StudentTeacherPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/StudentTeacherPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/oopPractice/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/muttable_immutable/StringBuilderMethods.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HSFvi9InMRyqAULHscGj4ZUr9U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TesterClub">
+    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_principles.encapsulation.CompanyTest" />
+      <module name="oop_princples_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_principles.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeClub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_principles.encapsulation.EmployeeClub" />
+      <module name="oop_princples_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_principles.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.oopPractice.EmployeeExercise" />
+      <module name="oop_princples_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_object.oopPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_principles.inheritance.PersonTest" />
+      <module name="oop_princples_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_principles.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterClub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_principles.inheritance.TesterClub" />
+      <module name="oop_princples_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_principles.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesterClub" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.EmployeeExercise" />
+        <item itemvalue="Application.EmployeeClub" />
+        <item itemvalue="Application.CompanyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250fcffd-3a28-458d-a54a-b039a9f8f29a" name="Changes" comment="" />
+      <created>1668270812294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668270812294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/muttable_immutable/UnderstandingMutability.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
